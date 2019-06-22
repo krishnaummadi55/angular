@@ -1,4 +1,4 @@
-# Node Hello World AWS VM ROUND Globe N ***
+# Node Hello World AWS VM ROUND Globe NO ***
 
 Simple node.js app that servers "hello world"
 
